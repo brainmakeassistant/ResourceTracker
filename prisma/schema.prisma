@@ -1,0 +1,160 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ── Lookup Tables ──────────────────────────────────────────
+
+model Practice {
+  id        Int        @id @default(autoincrement())
+  name      String     @unique // ERP, HCM, SCM, TECH, EPM, PM, FSD, WMS, OTH
+  resources Resource[]
+  manager   Resource?  @relation("PracticeManager", fields: [managerId], references: [id])
+  managerId Int?
+
+  @@map("practices")
+}
+
+// ── Core Entities ──────────────────────────────────────────
+
+model Resource {
+  id               Int      @id @default(autoincrement())
+  name             String   // "Last, First"
+  email            String?  @unique
+  resourceType     String   // EE (050), IC, TBD
+  level            String?  // Fusion Architect, Fusion Associate, etc.
+  citizenship      String?  // 0-Unknown, 1-Offshore, 2-H1B, 3-GreenCard, 4-USCitizen
+  badged           Boolean  @default(false)
+  location         String?
+  expertiseArea    String?
+  billRate         Float?   // $/hr billed to client
+  costRate         Float?   // $/hr internal cost
+  maxHoursPerWeek  Int      @default(40)
+  isActive         Boolean  @default(true)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  // Relationships
+  practice         Practice?  @relation(fields: [practiceId], references: [id])
+  practiceId       Int?
+  manager          Resource?  @relation("ManagerReports", fields: [managerId], references: [id])
+  managerId        Int?
+  directReports    Resource[] @relation("ManagerReports")
+  managedPractices Practice[] @relation("PracticeManager")
+
+  // Assignments where this resource is the worker
+  assignments      Assignment[]
+
+  // Assignments where this resource is the project manager
+  managedAssignments Assignment[] @relation("AssignmentPM")
+
+  // PTO requests
+  ptoRequests      PTORequest[]
+  ptoApprovals     PTOApproval[] @relation("PTOApprover")
+
+  // Actuals
+  actuals          Actual[]
+
+  @@map("resources")
+}
+
+model Project {
+  id                  Int      @id @default(autoincrement())
+  name                String   @unique
+  code                String?  // SOW/contract number like "300047.0002.00.001"
+  isContingent        Boolean  @default(false)
+  contingentSalesRep  String?
+  citizenshipRequired String?
+  status              String   @default("Active") // Active, Paused, NA, Completed
+  notes               String?
+  isPTO               Boolean  @default(false) // Flag for PTO/vacation project
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  assignments         Assignment[]
+  actuals             Actual[]
+
+  @@map("projects")
+}
+
+model Assignment {
+  id             Int       @id @default(autoincrement())
+  hoursPerWeek   Float
+  activity       String?   // Fusion Architect, Fusion Business Analyst, etc.
+  startDate      DateTime
+  endDate        DateTime
+  notes          String?   // Active, Future, etc.
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  // Worker
+  resource       Resource  @relation(fields: [resourceId], references: [id])
+  resourceId     Int
+  // Project
+  project        Project   @relation(fields: [projectId], references: [id])
+  projectId      Int
+  // Project Manager for this assignment
+  projectManager Resource? @relation("AssignmentPM", fields: [pmId], references: [id])
+  pmId           Int?
+
+  @@map("assignments")
+}
+
+// ── Actuals (uploaded from Springahead/timesheet) ──────────
+
+model Actual {
+  id           Int      @id @default(autoincrement())
+  weekEnding   DateTime // The week this actual belongs to
+  hours        Float
+  payrollType  String?  // Salary, Corp2Corp
+  billName     String?  // Subcontractor billing entity
+  uploadedAt   DateTime @default(now())
+
+  resource     Resource @relation(fields: [resourceId], references: [id])
+  resourceId   Int
+  project      Project  @relation(fields: [projectId], references: [id])
+  projectId    Int
+
+  @@unique([resourceId, projectId, weekEnding])
+  @@map("actuals")
+}
+
+// ── PTO / Vacation Workflow ────────────────────────────────
+
+model PTORequest {
+  id          Int      @id @default(autoincrement())
+  startDate   DateTime
+  endDate     DateTime
+  hoursPerDay Float    @default(8)
+  totalHours  Float
+  reason      String?
+  status      String   @default("Pending") // Pending, Approved, Denied
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  resource    Resource     @relation(fields: [resourceId], references: [id])
+  resourceId  Int
+  approvals   PTOApproval[]
+
+  @@map("pto_requests")
+}
+
+model PTOApproval {
+  id           Int      @id @default(autoincrement())
+  role         String   // "Manager", "ProjectManager"
+  status       String   @default("Pending") // Pending, Approved, Denied
+  respondedAt  DateTime?
+  createdAt    DateTime @default(now())
+
+  request      PTORequest @relation(fields: [requestId], references: [id])
+  requestId    Int
+  approver     Resource   @relation("PTOApprover", fields: [approverId], references: [id])
+  approverId   Int
+
+  @@unique([requestId, approverId])
+  @@map("pto_approvals")
+}

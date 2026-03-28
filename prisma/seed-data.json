@@ -1,0 +1,4044 @@
+{
+  "practices": [
+    {
+      "name": "ERP"
+    },
+    {
+      "name": "PPM"
+    },
+    {
+      "name": "SCM"
+    },
+    {
+      "name": "HCM"
+    },
+    {
+      "name": "TECH"
+    },
+    {
+      "name": "EPM"
+    },
+    {
+      "name": "PM"
+    },
+    {
+      "name": "FSD"
+    },
+    {
+      "name": "WMS"
+    },
+    {
+      "name": "OTH"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Abolins, Arilds",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Abram, Victor",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Philadelphia PA",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Adragna, Giana",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Aichouri, Mohamed",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Almont, Andrew",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Applegate, Austin",
+      "resourceType": "EE (050)",
+      "level": "Fusion Associate",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Jersey City, NJ",
+      "expertiseArea": "Projects, EPM",
+      "practiceId": 1
+    },
+    {
+      "name": "Awan, Faisal",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Azcona, Inaki",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Bauman, Chuck",
+      "resourceType": "IC",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Bending, David",
+      "resourceType": "EE (050)",
+      "level": "Fusion Associate",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Bucks County, PA",
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Bell, Thomas",
+      "resourceType": "EE (050)",
+      "level": "Fusion Technical Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Bidleman, Scout",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Bradley, Matthew",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": "Procurement, PDM, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "Briggs, Lee",
+      "resourceType": "EE (050)",
+      "level": "Fusion Architect",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Bucks County, PA",
+      "expertiseArea": "All ERP",
+      "practiceId": 1
+    },
+    {
+      "name": "Bullman, Benjamin",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": "Procurement, Order Management, PDM, Inventory, Costing, Manufacturing, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "Bullman, Bob",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": "Procurement, Order Management, PDM, Inventory, Costing, Manufacturing, AP, GL, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "Bullock, Garrett",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Chicago, IL",
+      "expertiseArea": "ERP",
+      "practiceId": 1
+    },
+    {
+      "name": "Butkys, Rimas",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Carey, Danielle",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Chikyala, Nitisha",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": "Gaithersburg, MD",
+      "expertiseArea": "Planning (Financials, WF, Projects, Capital, Custom), Narrative Reporting, Data Exchange / Management",
+      "practiceId": 6
+    },
+    {
+      "name": "Chin, Yi",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Chuck Steadley",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Crawford, Sam",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": "CT",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "DelPrete, George",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 10
+    },
+    {
+      "name": "Demissie, Beza",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Atlanta, GA",
+      "expertiseArea": "Planning (Financials), Narrative Reporting",
+      "practiceId": 6
+    },
+    {
+      "name": "Deshan, Tom",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Dhayal, Ravinder",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Dietz, Nicole",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": "Projects",
+      "practiceId": 1
+    },
+    {
+      "name": "Dixit, Sandeep",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "3 - Green Card",
+      "badged": false,
+      "location": "Canada",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Dykstra, Sarah",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Edgell, Marsha",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Arlington, VA",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Emmanuel Moemeka",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Ezzat Jappie",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Frize, Mary",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 8
+    },
+    {
+      "name": "Ganesh, Jawahar",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "3 - Green Card",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Ganji, Mahesh",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Gencarelli, Kelly",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": "Procurement, Inventory, PDM, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "George, Sherry",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Glen Song",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Goel, Amit",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "3 - Green Card",
+      "badged": false,
+      "location": null,
+      "expertiseArea": "Procurement, Order Management, PDM, Inventory, Costing, Manufacturing, AP, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "Goel, Anurag",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Gomez Fernandez, Luis Manuel",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 8
+    },
+    {
+      "name": "Gonzalez-Najera, Otto",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Needham, MA",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Gupta, Anubhav",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Hahn, Liz",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Hamer, Rob",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 9
+    },
+    {
+      "name": "Hare, Calvin",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Hemanth Kumar",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Horton, Melissa",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 8
+    },
+    {
+      "name": "Hughes, Cynthia",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Hussein, Liyakat",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Imran Shaik (AccelAlpha)",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Javier Heras (EnTrust)",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Jeff Hare",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Jeyakumar Ganapathiappan",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "John Khalid",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Joshi, Shankar",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Jupalli, Madhav",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Kancharla, Balaji",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Kastner-Puschl, Eva",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "2 - H1B",
+      "badged": true,
+      "location": "PA",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Keppert, Anita",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "NJ",
+      "expertiseArea": "AR, GL",
+      "practiceId": 1
+    },
+    {
+      "name": "Konyala, Vinoder",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Kwiatkowski, Robert",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Fanwood, NJ",
+      "expertiseArea": "Planning (Financials, WF, Projects, Capital), Narrative Reporting, ARCS, FCC, EDM, Data Exchange / Management",
+      "practiceId": 6
+    },
+    {
+      "name": "L, Deepa",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "3 - Green Card",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Lampman, Samantha",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "LeBlanc, Jonathan",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Philadelphia PA",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Lyon, Greg",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Mahidhar, Kilari",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Makarewicz, Brian",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "West Chester, PA",
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Martinez, Ivan",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "McCann, Kevin",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "MD",
+      "expertiseArea": "Projects",
+      "practiceId": 1
+    },
+    {
+      "name": "Milmoe, Andrew",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "MOD 43 WMS Lead",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 9
+    },
+    {
+      "name": "Moeller, Sarah",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": "VA?",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Mohan, Krishna",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Morgan, Cory",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Eastampton, NJ",
+      "expertiseArea": "EPM, ERP",
+      "practiceId": 6
+    },
+    {
+      "name": "Murthy Konar",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Muthireddygari, Karishma",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Naeen, Asma",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": "MD?",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Narasimhan, Rangarajan",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Narsimha Desidi",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Neruvatla, Prakash",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Nolasco, Jesus",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Oscar Santa Cruz",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Osiniak, Ewa",
+      "resourceType": "EE (050)",
+      "level": "Fusion Associate",
+      "citizenship": "2 - H1B",
+      "badged": true,
+      "location": "Bucks County, PA",
+      "expertiseArea": "GL, AP, AR, CE, FA",
+      "practiceId": 1
+    },
+    {
+      "name": "Perez, Carlos",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Pewterbaugh, Conor",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Philadelphia PA",
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Pothana, Udaya",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Potter, June",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 10
+    },
+    {
+      "name": "Pottker, Michael",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "MD",
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Powers, Christopher",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Annapolis MD",
+      "expertiseArea": "Procurement, Order Management, PDM, Inventory, Costing, Manufacturing, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "Pradhan, Ashok",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Prasad, Subham",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Raj, Bharathi",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Rajagopalan, Badhri",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Rajesh Perumalla",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Ravi Birhman",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Ray Kumar",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "Reese, Tony",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Rehman, Sanya",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Tupelo MS",
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Ridley, Kishon",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": "NJ",
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Ritz, Quinton",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Roltgen, Brittani",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Sahu, Anuradha",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Sakaram, Viswa",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Samy, Thomas",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Sanchez, Deneb",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Santhanam, Guru",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "Senapati, Kanha",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Shamsudeen, Rubina",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Sharma, Virendra",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Shiv Mishra",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Sinojia, Kishan",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "2 - H1B",
+      "badged": true,
+      "location": "AR",
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Siva Battu",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "SK, Sowmya",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Smith, Kyron",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Soumya Kancheti",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Stiles, Eddie",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": "Fixed Assets, Revenue Reconciliation, Procurement, PDM, Order Management, Inventory",
+      "practiceId": 3
+    },
+    {
+      "name": "Stoddart, Ryan",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Sudakhar",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "Summers, Lisa",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Charlotte, NC",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Sunil Sharma",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Surendra Darla",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Syed, Basheer",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Szymborski, Fred",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": "Furlong, PA",
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "Szymborski, Miranda",
+      "resourceType": "EE (050)",
+      "level": "Fusion Associate",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Furlong, PA",
+      "expertiseArea": "Associate",
+      "practiceId": 1
+    },
+    {
+      "name": "Tahir, Ahmad",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TATA - EPM",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "TATA - HCM",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TATA - SCM",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TATA - TECH",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TATA - TECH (Fast Formula)",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - Benefits Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - Collections & AR",
+      "resourceType": "TBD",
+      "level": "Fusion Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - Contracts Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - Contracts Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - Data and Reports Developer",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - EPM Architect",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "TBD - EPM Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "TBD - EPM Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "TBD - EPM Offshore",
+      "resourceType": "TBD",
+      "level": "Fusion Remote Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 6
+    },
+    {
+      "name": "TBD - EPM Tech",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - FIN Architect",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - FIN Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - FIN Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - FIN Remote",
+      "resourceType": "TBD",
+      "level": "Fusion Remote Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - HCM Architect",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - HCM Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - HCM Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - HCM Remote",
+      "resourceType": "TBD",
+      "level": "Fusion Remote Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - HCM Tech Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Junior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - HCM Tech Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - JDE LEAD",
+      "resourceType": "TBD",
+      "level": "Fusion Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - Learning Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - Learning Support",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - OCM",
+      "resourceType": "TBD",
+      "level": "Fusion Program Manager",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 10
+    },
+    {
+      "name": "TBD - OIC Developer",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - OTL Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - Payroll Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - Payroll Support",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - PM",
+      "resourceType": "TBD",
+      "level": "Fusion Project Manager",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "TBD - PMO",
+      "resourceType": "TBD",
+      "level": "Fusion Program Manager",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "TBD - PO Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - PPM Architect",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - PPM Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - PPM Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - Project Admin",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 7
+    },
+    {
+      "name": "TBD - Recruiting Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - Revenue Management Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 1
+    },
+    {
+      "name": "TBD - SCM Architect",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - SCM Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Associate",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - SCM Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - SCM Remote",
+      "resourceType": "TBD",
+      "level": "Fusion Remote Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - Subscriptions Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - SVC Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 3
+    },
+    {
+      "name": "TBD - TECH (Fast Formula)",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "TBD - TECH (Remote)",
+      "resourceType": "TBD",
+      "level": "Fusion Remote Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - TECH Analyst",
+      "resourceType": "TBD",
+      "level": "Fusion Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - TECH Associate",
+      "resourceType": "TBD",
+      "level": "Fusion Junior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - TECH Conversions and Integrations",
+      "resourceType": "TBD",
+      "level": "Fusion Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - TECH Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Technical Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - WMS Architect",
+      "resourceType": "TBD",
+      "level": "Fusion Architect",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "TBD - WMS Lead",
+      "resourceType": "TBD",
+      "level": "Fusion Senior Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 9
+    },
+    {
+      "name": "TBD - WMS Support",
+      "resourceType": "TBD",
+      "level": "Fusion Business Analyst",
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 9
+    },
+    {
+      "name": "Teuscher, Ryan",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Umfurer, Cristian",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "1 - Offshore",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Velilla, Keith",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Viera-Gomez, Bryan",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "3 - Green Card",
+      "badged": true,
+      "location": "VA",
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Virk, Rajbir",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Vrabec, Ed",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": null,
+      "expertiseArea": "Procurement, Order Management, PDM, Inventory, Costing, Manufacturing, Supplier Portal",
+      "practiceId": 3
+    },
+    {
+      "name": "Vrabec, Mackenzi",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 4
+    },
+    {
+      "name": "Watson, Summer",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": "Quitman, TX",
+      "expertiseArea": "Planning (Financials, WF, Projects, Capital), Narrative Reporting, Data Exchange / Management, Demo experience with ARCS, FCC, EDM, Tax, Strategic Finance, Strategic WF, PCM, ESG, AI adoption",
+      "practiceId": 6
+    },
+    {
+      "name": "Weiss, Jessica",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 10
+    },
+    {
+      "name": "Werner, Adam",
+      "resourceType": "IC",
+      "level": null,
+      "citizenship": "0 - Unknown",
+      "badged": false,
+      "location": "Orlando, FL",
+      "expertiseArea": "Planning (Financials, WF, Projects, Capital), Narrative Reporting, Data Exchange / Management,  ARCS, FCC, EDM",
+      "practiceId": 6
+    },
+    {
+      "name": "Winter, Jason",
+      "resourceType": "EE (050)",
+      "level": "Fusion Business Analyst",
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "Philadelphia, PA",
+      "expertiseArea": "Projects, GL, AP",
+      "practiceId": 1
+    },
+    {
+      "name": "Wood, Taylor",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": "4 - US Citizen",
+      "badged": true,
+      "location": "MD",
+      "expertiseArea": null,
+      "practiceId": 5
+    },
+    {
+      "name": "Challa, Murali",
+      "resourceType": "EE (050)",
+      "level": null,
+      "citizenship": null,
+      "badged": false,
+      "location": null,
+      "expertiseArea": null,
+      "practiceId": 7
+    }
+  ],
+  "projects": [
+    {
+      "name": "ACCF SOW002 FFP - 300047.0002.00.001",
+      "isContingent": false,
+      "citizenshipRequired": "4 - US Citizen",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Airforce EBS",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "NA",
+      "isPTO": false
+    },
+    {
+      "name": "Blue Owl Sow010 OY4 - 300028.0001.04.004",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "CBIZ IDR - 300057.0000.00.001",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "City of Fayetteville EPM - 300029.0002.00.001.01",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Paused",
+      "isPTO": false
+    },
+    {
+      "name": "City of Fort Myers Implem - 300020.0002.00.001 (Phase 3)",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Contingent - Catawba Payroll Integration",
+      "isContingent": true,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": "Stephen",
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Contingent - Manatee EPM Support",
+      "isContingent": true,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": "Kelley",
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Creoal ADMIN",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Creoal CSD:050 21-07 Global CSD",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Creoal Sales Support",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Fayetteville-HCM SOW001 - 300029.0001.00.001",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "HJF Reporting - 300056.0000.00.001",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": "Stephen",
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Manatee County EPM Labor - 101495.0001.00.001",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Navancio:060 24-07 IHS ERP Supplychain",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "NA",
+      "isPTO": false
+    },
+    {
+      "name": "Pathfinder Bank EPM - 300041.0006.00.000.00",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Paused",
+      "isPTO": false
+    },
+    {
+      "name": "PTO (Extended)",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": true
+    },
+    {
+      "name": "REPUBLIC SERVICES SOW002 - 300008.0002.00.000",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": "Carol",
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "Savannah River SRNL - 300003.0001.00.000.01",
+      "isContingent": false,
+      "citizenshipRequired": "4 - US Citizen",
+      "contingentSalesRep": null,
+      "status": "NA",
+      "isPTO": false
+    },
+    {
+      "name": "TDH Phase 2 - Catapult",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "WMATA ERP-IMPLEMENTATION - 300030.0002.00.000",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "WPS Phase 2",
+      "isContingent": false,
+      "citizenshipRequired": "0 - Unknown",
+      "contingentSalesRep": "Kay",
+      "status": "Active",
+      "isPTO": false
+    },
+    {
+      "name": "HJF - Reporting",
+      "isContingent": false,
+      "citizenshipRequired": null,
+      "contingentSalesRep": null,
+      "status": "Active",
+      "isPTO": false
+    }
+  ],
+  "assignments": [
+    {
+      "resourceId": 3,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 30,
+      "activity": "Fusion Associate",
+      "startDate": "2025-05-12T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 11,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "endDate": "2026-06-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 19,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-14T00:00:00.000Z",
+      "endDate": "2026-04-23T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 20,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-02-01T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 23,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Program Manager",
+      "startDate": "2025-09-01T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 25,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Associate",
+      "startDate": "2026-03-30T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 29,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 25,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "endDate": "2026-06-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 29,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 5,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-07-01T00:00:00.000Z",
+      "endDate": "2026-08-30T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 31,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 30,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-02-23T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 37,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-06-15T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 38,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 30,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2025-10-20T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 50,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 30,
+      "activity": "Fusion Senior Associate",
+      "startDate": "2025-06-15T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 61,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-08-11T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 62,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 25,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2025-08-04T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 65,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 25,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-02-16T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2025-04-28T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 71,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-08-18T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 74,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Project Administrator",
+      "startDate": "2025-04-28T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 85,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Associate",
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 90,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 25,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2025-08-04T00:00:00.000Z",
+      "endDate": "2026-12-04T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 188,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-12-22T00:00:00.000Z",
+      "endDate": "2026-04-17T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 194,
+      "projectId": 1,
+      "pmId": 74,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-10-06T00:00:00.000Z",
+      "endDate": "2026-08-05T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 5,
+      "projectId": 2,
+      "pmId": null,
+      "hoursPerWeek": 32,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-02-01T00:00:00.000Z",
+      "endDate": "2027-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 9,
+      "projectId": 3,
+      "pmId": 66,
+      "hoursPerWeek": 6,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 4,
+      "pmId": 43,
+      "hoursPerWeek": 2,
+      "activity": "Fusion Architect",
+      "startDate": "2026-03-02T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 4,
+      "pmId": 43,
+      "hoursPerWeek": 2,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-03-02T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 87,
+      "projectId": 4,
+      "pmId": 43,
+      "hoursPerWeek": 2,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-02T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 139,
+      "projectId": 5,
+      "pmId": 43,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Associate",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 139,
+      "projectId": 5,
+      "pmId": 43,
+      "hoursPerWeek": 32,
+      "activity": "Fusion Associate",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-10-02T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 161,
+      "projectId": 5,
+      "pmId": 43,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "endDate": "2026-10-02T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 140,
+      "projectId": 5,
+      "pmId": 43,
+      "hoursPerWeek": 24,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-05-04T00:00:00.000Z",
+      "endDate": "2026-10-02T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 4,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-01-31T00:00:00.000Z",
+      "endDate": "2026-04-17T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 12,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Associate",
+      "startDate": "2025-01-31T00:00:00.000Z",
+      "endDate": "2026-04-17T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 185,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-20T00:00:00.000Z",
+      "endDate": "2026-04-16T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 31,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 12,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-02-28T00:00:00.000Z",
+      "endDate": "2026-04-10T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 79,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Project Administrator",
+      "startDate": "2026-02-28T00:00:00.000Z",
+      "endDate": "2026-04-17T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 83,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 24,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-02T00:00:00.000Z",
+      "endDate": "2026-04-17T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 90,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2025-06-12T00:00:00.000Z",
+      "endDate": "2026-04-10T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 103,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 2,
+      "activity": "Fusion Senior Architect",
+      "startDate": "2025-02-24T00:00:00.000Z",
+      "endDate": "2026-04-17T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 113,
+      "projectId": 6,
+      "pmId": 31,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2025-03-31T00:00:00.000Z",
+      "endDate": "2026-04-10T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 149,
+      "projectId": 7,
+      "pmId": null,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-10T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 161,
+      "projectId": 7,
+      "pmId": null,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-10T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 178,
+      "projectId": 7,
+      "pmId": null,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Remote Technical Analyst",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-10T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 8,
+      "pmId": 43,
+      "hoursPerWeek": 2,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-04-12T00:00:00.000Z",
+      "endDate": "2027-03-08T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 194,
+      "projectId": 8,
+      "pmId": 43,
+      "hoursPerWeek": 6,
+      "activity": "Fusion Architect",
+      "startDate": "2026-04-12T00:00:00.000Z",
+      "endDate": "2027-03-08T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 2,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 3,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 4,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 5,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 6,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 11,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 10,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 12,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 13,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 15,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 17,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 20,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 25,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 28,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 31,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 34,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 37,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 38,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 49,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 50,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 60,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 61,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 62,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 65,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 66,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 71,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 74,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 76,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 79,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 83,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 85,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 87,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 91,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 100,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 101,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 103,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 113,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 118,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 121,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 126,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 185,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 188,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 190,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 192,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 195,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-04-10T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 196,
+      "projectId": 9,
+      "pmId": 66,
+      "hoursPerWeek": 0,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 12,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "endDate": "2026-05-18T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 12,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-08-07T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 12,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "endDate": "2026-11-16T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 25,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Associate",
+      "startDate": "2026-01-12T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 34,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 49,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 65,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "endDate": "2026-05-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 83,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-12-01T00:00:00.000Z",
+      "endDate": "2026-11-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 101,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 126,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Associate",
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 4,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-01T00:00:00.000Z",
+      "endDate": "2026-06-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 171,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "endDate": "2026-05-18T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 144,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "endDate": "2026-05-18T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 12,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "endDate": "2026-05-18T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "endDate": "2026-05-18T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-08T00:00:00.000Z",
+      "endDate": "2026-05-18T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 171,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-08-07T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 144,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-08-07T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 148,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-08-07T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-08-07T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-08-07T00:00:00.000Z",
+      "endDate": "2026-08-17T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 144,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "endDate": "2026-11-16T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 171,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "endDate": "2026-11-16T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 148,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "endDate": "2026-11-16T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "endDate": "2026-11-16T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-11-06T00:00:00.000Z",
+      "endDate": "2026-11-16T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 191,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 192,
+      "projectId": 10,
+      "pmId": 34,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-01-12T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 11,
+      "pmId": 66,
+      "hoursPerWeek": 8,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 66,
+      "projectId": 11,
+      "pmId": 66,
+      "hoursPerWeek": 8,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 11,
+      "pmId": 66,
+      "hoursPerWeek": 8,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 76,
+      "projectId": 11,
+      "pmId": 66,
+      "hoursPerWeek": 8,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 103,
+      "projectId": 11,
+      "pmId": 66,
+      "hoursPerWeek": 8,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 190,
+      "projectId": 11,
+      "pmId": 66,
+      "hoursPerWeek": 8,
+      "activity": null,
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 2,
+      "projectId": 12,
+      "pmId": 2,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Project Manager",
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 8,
+      "projectId": 12,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Remote Business Analyst",
+      "startDate": "2025-11-01T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 83,
+      "projectId": 12,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2024-09-15T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 90,
+      "projectId": 12,
+      "pmId": 2,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Associate",
+      "startDate": "2025-11-01T00:00:00.000Z",
+      "endDate": "2026-04-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 23,
+      "pmId": 43,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-03-02T00:00:00.000Z",
+      "endDate": "2026-06-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 23,
+      "pmId": 43,
+      "hoursPerWeek": 6,
+      "activity": "Fusion Technical Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-06-30T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 6,
+      "projectId": 14,
+      "pmId": 43,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Associate",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 14,
+      "pmId": 43,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-02-02T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 194,
+      "projectId": 14,
+      "pmId": 43,
+      "hoursPerWeek": 24,
+      "activity": "Fusion Senior Architect",
+      "startDate": "2026-02-10T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 16,
+      "projectId": 15,
+      "pmId": 197,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2024-11-01T00:00:00.000Z",
+      "endDate": "2026-08-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 40,
+      "projectId": 15,
+      "pmId": 197,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2024-08-01T00:00:00.000Z",
+      "endDate": "2026-08-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 119,
+      "projectId": 15,
+      "pmId": 197,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2024-08-01T00:00:00.000Z",
+      "endDate": "2026-08-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 6,
+      "projectId": 16,
+      "pmId": 43,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "endDate": "2026-05-15T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 16,
+      "pmId": 43,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "endDate": "2026-05-15T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 194,
+      "projectId": 16,
+      "pmId": 43,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Architect",
+      "startDate": "2026-05-01T00:00:00.000Z",
+      "endDate": "2026-05-15T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 17,
+      "projectId": 17,
+      "pmId": 103,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-09T00:00:00.000Z",
+      "endDate": "2026-05-01T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 100,
+      "projectId": 17,
+      "pmId": 103,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2025-12-01T00:00:00.000Z",
+      "endDate": "2026-04-07T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 60,
+      "projectId": 17,
+      "pmId": 66,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-04-13T00:00:00.000Z",
+      "endDate": "2026-05-01T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 18,
+      "pmId": 190,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Senior Technical Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-04-16T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 91,
+      "projectId": 18,
+      "pmId": 190,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-04-24T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 118,
+      "projectId": 18,
+      "pmId": 190,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-04-16T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 190,
+      "projectId": 18,
+      "pmId": 190,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-02-16T00:00:00.000Z",
+      "endDate": "2026-04-16T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 196,
+      "projectId": 18,
+      "pmId": 190,
+      "hoursPerWeek": 12,
+      "activity": "Fusion Senior Technical Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-04-24T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 15,
+      "projectId": 19,
+      "pmId": 197,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2025-10-19T00:00:00.000Z",
+      "endDate": "2026-03-31T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 2,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 40,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-03-09T00:00:00.000Z",
+      "endDate": "2026-09-28T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Architect",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Architect",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Architect",
+      "startDate": "2026-08-03T00:00:00.000Z",
+      "endDate": "2026-09-04T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 28,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 32,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 28,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 16,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 28,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-08-03T00:00:00.000Z",
+      "endDate": "2026-09-04T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 28,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 21,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-09-07T00:00:00.000Z",
+      "endDate": "2026-09-25T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Senior Technical Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 91,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 91,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 91,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 6,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-08-03T00:00:00.000Z",
+      "endDate": "2026-09-04T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 91,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-09-07T00:00:00.000Z",
+      "endDate": "2026-09-25T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 118,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 118,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 118,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 6,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-08-03T00:00:00.000Z",
+      "endDate": "2026-09-04T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 118,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 10,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2026-09-07T00:00:00.000Z",
+      "endDate": "2026-09-25T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 190,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 20,
+      "activity": "Fusion Architect",
+      "startDate": "2026-03-16T00:00:00.000Z",
+      "endDate": "2026-05-29T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 190,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Architect",
+      "startDate": "2026-06-01T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 190,
+      "projectId": 20,
+      "pmId": 2,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Architect",
+      "startDate": "2026-08-03T00:00:00.000Z",
+      "endDate": "2026-09-04T00:00:00.000Z",
+      "notes": "Future"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 21,
+      "pmId": 43,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Senior Architect",
+      "startDate": "2024-10-01T00:00:00.000Z",
+      "endDate": "2026-09-15T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 43,
+      "projectId": 21,
+      "pmId": 43,
+      "hoursPerWeek": 15,
+      "activity": "Fusion Project Manager",
+      "startDate": "2025-05-12T00:00:00.000Z",
+      "endDate": "2026-09-15T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 69,
+      "projectId": 21,
+      "pmId": 43,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Senior Technical Analyst",
+      "startDate": "2026-01-19T00:00:00.000Z",
+      "endDate": "2026-09-15T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 103,
+      "projectId": 21,
+      "pmId": 43,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2024-10-01T00:00:00.000Z",
+      "endDate": "2026-09-15T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 185,
+      "projectId": 21,
+      "pmId": 43,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-04T00:00:00.000Z",
+      "endDate": "2026-05-01T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 195,
+      "projectId": 21,
+      "pmId": 43,
+      "hoursPerWeek": 4,
+      "activity": "Fusion Senior Business Analyst",
+      "startDate": "2025-11-24T00:00:00.000Z",
+      "endDate": "2026-04-10T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 10,
+      "projectId": 22,
+      "pmId": 60,
+      "hoursPerWeek": 12,
+      "activity": "Fusion Associate",
+      "startDate": "2026-03-21T00:00:00.000Z",
+      "endDate": "2026-04-03T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 13,
+      "projectId": 22,
+      "pmId": 60,
+      "hoursPerWeek": 12,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-21T00:00:00.000Z",
+      "endDate": "2026-04-03T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 14,
+      "projectId": 22,
+      "pmId": 60,
+      "hoursPerWeek": 6,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-02-02T00:00:00.000Z",
+      "endDate": "2026-04-03T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 28,
+      "projectId": 22,
+      "pmId": 60,
+      "hoursPerWeek": 12,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-21T00:00:00.000Z",
+      "endDate": "2026-04-03T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 60,
+      "projectId": 22,
+      "pmId": 60,
+      "hoursPerWeek": 8,
+      "activity": "Fusion Project Manager",
+      "startDate": "2026-03-21T00:00:00.000Z",
+      "endDate": "2026-04-03T00:00:00.000Z",
+      "notes": "Active"
+    },
+    {
+      "resourceId": 87,
+      "projectId": 22,
+      "pmId": 60,
+      "hoursPerWeek": 12,
+      "activity": "Fusion Business Analyst",
+      "startDate": "2026-03-21T00:00:00.000Z",
+      "endDate": "2026-04-03T00:00:00.000Z",
+      "notes": "Active"
+    }
+  ]
+}
