@@ -1,9 +1,9 @@
 import { prisma } from "@/lib/prisma";
+import { ActualsUpload } from "@/components/actuals-upload";
 
 export const dynamic = "force-dynamic";
 
 export default async function ActualsPage() {
-  // Get recent actuals with forecast comparison
   const now = new Date();
   const fourWeeksAgo = new Date(now);
   fourWeeksAgo.setDate(fourWeeksAgo.getDate() - 28);
@@ -18,12 +18,11 @@ export default async function ActualsPage() {
   const assignments = await prisma.assignment.findMany({
     where: {
       startDate: { lte: now },
-      endDate: { gte: fourWeeksAgo },
+      OR: [{ endDate: null }, { endDate: { gte: fourWeeksAgo } }],
     },
     include: { resource: true, project: true },
   });
 
-  // Build comparison: group actuals by resource+week
   const comparison: Array<{
     resourceName: string;
     projectName: string;
@@ -34,13 +33,12 @@ export default async function ActualsPage() {
   }> = [];
 
   for (const act of actuals) {
-    // Find matching assignment
     const match = assignments.find(
       (a) =>
         a.resourceId === act.resourceId &&
         a.projectId === act.projectId &&
         a.startDate <= act.weekEnding &&
-        a.endDate >= act.weekEnding
+        (!a.endDate || a.endDate >= act.weekEnding)
     );
 
     comparison.push({
@@ -55,18 +53,12 @@ export default async function ActualsPage() {
 
   return (
     <div>
-      <div className="flex items-center justify-between mb-6">
-        <h1 className="text-2xl font-bold">Actuals vs Forecast</h1>
-        <form action="/api/actuals/upload" method="POST" encType="multipart/form-data">
-          <label className="px-4 py-2 bg-[var(--primary)] text-white rounded hover:bg-[var(--primary-hover)] text-sm cursor-pointer">
-            Upload Actuals
-            <input type="file" name="file" accept=".xlsx,.xls,.csv" className="hidden" />
-          </label>
-        </form>
-      </div>
+      <h1 className="text-2xl font-bold mb-6">Actuals vs Forecast</h1>
+
+      <ActualsUpload />
 
       {comparison.length === 0 ? (
-        <div className="bg-white rounded-lg border border-[var(--border)] p-8 text-center text-[var(--muted)]">
+        <div className="bg-white rounded-lg border p-8 text-center text-[var(--muted)]">
           <p className="text-lg mb-2">No actuals data yet</p>
           <p className="text-sm">
             Upload a Springahead or timesheet export (Excel/CSV) to compare
@@ -74,13 +66,13 @@ export default async function ActualsPage() {
           </p>
         </div>
       ) : (
-        <div className="bg-white rounded-lg border border-[var(--border)] overflow-hidden">
+        <div className="bg-white rounded-lg border overflow-hidden">
           <table className="w-full text-sm">
             <thead>
               <tr className="text-left text-[var(--muted)] border-b bg-gray-50">
                 <th className="px-4 py-3">Resource</th>
                 <th className="px-4 py-3">Project</th>
-                <th className="px-4 py-3">Week Ending</th>
+                <th className="px-4 py-3">Week Starting</th>
                 <th className="px-4 py-3 text-right">Forecast</th>
                 <th className="px-4 py-3 text-right">Actual</th>
                 <th className="px-4 py-3 text-right">Variance</th>
@@ -88,7 +80,7 @@ export default async function ActualsPage() {
             </thead>
             <tbody>
               {comparison.map((row, i) => (
-                <tr key={i} className="border-b border-[var(--border)]">
+                <tr key={i} className="border-b">
                   <td className="px-4 py-2">{row.resourceName}</td>
                   <td className="px-4 py-2">{row.projectName}</td>
                   <td className="px-4 py-2">{row.weekEnding}</td>

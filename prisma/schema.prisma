@@ -86,7 +86,7 @@ model Assignment {
   hoursPerWeek   Float
   activity       String?   // Fusion Architect, Fusion Business Analyst, etc.
   startDate      DateTime
-  endDate        DateTime
+  endDate        DateTime?
   notes          String?   // Active, Future, etc.
   createdAt      DateTime  @default(now())
   updatedAt      DateTime  @updatedAt

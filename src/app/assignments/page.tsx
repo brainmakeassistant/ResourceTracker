@@ -44,16 +44,20 @@ export default async function AssignmentsPage() {
           </thead>
           <tbody>
             {assignments.map((a) => {
-              const isActive = a.startDate <= now && a.endDate >= now;
+              const isActive =
+                a.startDate <= now && (!a.endDate || a.endDate >= now);
               const isFuture = a.startDate > now;
-              const isPast = a.endDate < now;
+              const isPast = a.endDate && a.endDate < now;
 
-              // End date warning
-              const daysToEnd = Math.ceil(
-                (a.endDate.getTime() - now.getTime()) / (1000 * 60 * 60 * 24)
-              );
-              const endingSoon = isActive && daysToEnd <= 30;
-              const endingThisWeek = isActive && daysToEnd <= 7;
+              let endingSoon = false;
+              let endingThisWeek = false;
+              if (a.endDate && isActive) {
+                const daysToEnd = Math.ceil(
+                  (a.endDate.getTime() - now.getTime()) / (1000 * 60 * 60 * 24)
+                );
+                endingSoon = daysToEnd <= 30;
+                endingThisWeek = daysToEnd <= 7;
+              }
 
               return (
                 <tr
@@ -77,7 +81,7 @@ export default async function AssignmentsPage() {
                   <td
                     className={`px-4 py-2 ${endingThisWeek ? "text-[var(--danger)] font-semibold" : endingSoon ? "text-[var(--warning)] font-semibold" : ""}`}
                   >
-                    {a.endDate.toLocaleDateString()}
+                    {a.endDate ? a.endDate.toLocaleDateString() : "Ongoing"}
                   </td>
                   <td className="px-4 py-2 font-semibold">{a.hoursPerWeek}</td>
                   <td className="px-4 py-2">
