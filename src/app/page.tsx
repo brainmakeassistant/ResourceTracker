@@ -15,7 +15,7 @@ async function getStats() {
         assignments: {
           where: {
             startDate: { lte: new Date() },
-            endDate: { gte: new Date() },
+            OR: [{ endDate: null }, { endDate: { gte: new Date() } }],
           },
         },
       },

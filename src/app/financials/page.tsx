@@ -16,7 +16,7 @@ export default async function FinancialsPage() {
       assignments: {
         where: {
           startDate: { lte: threeMonthsOut },
-          endDate: { gte: now },
+          OR: [{ endDate: null }, { endDate: { gte: now } }],
         },
         include: { project: true },
       },

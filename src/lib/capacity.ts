@@ -57,7 +57,7 @@ export async function getCapacityData(
       assignments: {
         where: {
           startDate: { lte: endDate },
-          endDate: { gte: startWeek },
+          OR: [{ endDate: null }, { endDate: { gte: startWeek } }],
         },
         include: { project: true },
       },
@@ -76,13 +76,13 @@ export async function getCapacityData(
       weekEnd.setUTCDate(weekEnd.getUTCDate() + 6);
 
       const activeAssignments = r.assignments.filter((a) => {
-        return a.startDate <= weekEnd && a.endDate >= weekStart;
+        return a.startDate <= weekEnd && (!a.endDate || a.endDate >= weekStart);
       });
 
       // Handle partial weeks at assignment boundaries
       const assignments = activeAssignments.map((a) => {
         const assignStart = a.startDate > weekStart ? a.startDate : weekStart;
-        const assignEnd = a.endDate < weekEnd ? a.endDate : weekEnd;
+        const assignEnd = a.endDate && a.endDate < weekEnd ? a.endDate : weekEnd;
         const daysInWeek =
           Math.min(
             5,
@@ -117,7 +117,7 @@ export async function getPracticeFinancials(
       assignments: {
         where: {
           startDate: { lte: endDate },
-          endDate: { gte: startDate },
+          OR: [{ endDate: null }, { endDate: { gte: startDate } }],
         },
         include: { project: true },
       },
@@ -149,7 +149,7 @@ export async function getPracticeFinancials(
       weekEnd.setUTCDate(weekEnd.getUTCDate() + 6);
 
       for (const a of r.assignments) {
-        if (a.startDate <= weekEnd && a.endDate >= week) {
+        if (a.startDate <= weekEnd && (!a.endDate || a.endDate >= week)) {
           practices[practiceName].hours += a.hoursPerWeek;
           practices[practiceName].revenue += a.hoursPerWeek * (r.billRate ?? 0);
           practices[practiceName].cost += a.hoursPerWeek * (r.costRate ?? 0);
